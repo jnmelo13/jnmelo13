@@ -2,7 +2,7 @@
 
 **AI Engineer | GenAI & MCP | Software Engineering & Cloud**
 
-I design and deploy production-grade AI systems with strong foundations in software engineering, clean architecture, and cloud infrastructure. My work spans LLM applications, multi-agent orchestration, observability-first design, and governed tool integrations using the Model Context Protocol (MCP).
+I work on production-grade AI systems with strong foundations in software engineering, clean architecture, and cloud infrastructure. My work spans LLM applications, multi-agent orchestration, observability-first design, and governed tool integrations using the Model Context Protocol (MCP).
 
 ### 🔍 Key Highlights
 
